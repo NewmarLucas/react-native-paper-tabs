@@ -8,11 +8,10 @@
   "react-native": "src/index",
   "source": "src/index",
   "files": [
-    "src",
     "lib",
+    "src",
     "android",
     "ios",
-    "cpp",
     "*.podspec",
     "!lib/typescript/example",
     "!ios/build",
